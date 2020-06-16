@@ -14,3 +14,5 @@ mkdir fus13(폴더명)
 *rmdir : 내용이있는 디렉토리 삭제 
 *cp : 복사하기
 *mv : 위치 이동 및 이름 변경
+
+[README](../README.md)
