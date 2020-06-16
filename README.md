@@ -2,3 +2,5 @@
 작성자 : eyojin
 
 * [CLI 명령어](md/CLI.md)
+* [GIT 명령어](md/git.md)
+
